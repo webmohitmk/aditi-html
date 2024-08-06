@@ -1,0 +1,48 @@
+h3 {
+  /* css properites -- external css  */
+
+  /* background-color: blue; */
+  color: #fff;
+}
+
+body {
+  margin-left: 50px;
+}
+#para1 {
+  background-color: black;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+}
+
+#para2 {
+  font-size: 32px;
+  color: blue;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+/* th {
+  background-color: orange;
+} */
+
+.thead {
+  background-color: yellow;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.lower-alpha {
+  list-style-type: lower-alpha;
+}
+.upper-roman {
+  list-style-type: upper-roman;
+}
